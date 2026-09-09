@@ -12,7 +12,7 @@
 ## 설치 순서 (요약)
 **PC**: ① [공식 홈페이지](https://gvl.wasabii.com.tw/install/pc_equipment.shtml) 클라이언트 설치 → 게임 실행·로그인·리소스 다운로드 완료 후 완전 종료 → ② `GVL_KoPatch_PC.zip` 풀기 → `한글패치_설치.bat` 실행(Windows 경고 시 추가 정보 → 실행) → 메뉴 1(설치) → 게임 실행.
 
-**안드로이드 폰**: ① [공식 홈페이지](https://gvl.wasabii.com.tw/install/pc_equipment.shtml) APK 설치 → 게임 실행·로그인·리소스 다운로드 완료 후 완전 종료 → ② 개발자 옵션에서 USB 디버깅 ON → ③ 데이터 케이블로 PC 연결(파일 전송 모드) → `GVL_KoPatch_Android.zip` 풀고 `한글패치_설치.bat` → 폰의 'USB 디버깅 허용' 승인 → 메뉴 1(설치).
+**안드로이드 폰** (⚠ 구글 플레이 스토어 버전에는 적용되지 않음 — 공식 홈페이지 APK 필요): ① [공식 홈페이지](https://gvl.wasabii.com.tw/install/pc_equipment.shtml) APK 설치 → 게임 실행·로그인·리소스 다운로드 완료 후 완전 종료 → ② 개발자 옵션에서 USB 디버깅 ON → ③ 데이터 케이블로 PC 연결(파일 전송 모드) → `GVL_KoPatch_Android.zip` 풀고 `한글패치_설치.bat` → 폰의 'USB 디버깅 허용' 승인 → 메뉴 1(설치).
 
 **BlueStacks**: APK 설치·실행·리소스 다운로드 후 종료 → 설정 > 고급 > ADB 켜기 → `한글패치_설치.bat` → 메뉴 1.
 
