@@ -19,3 +19,10 @@
 자세한 설명·문제 해결: https://dholegend.net/guide/kopatch
 
 최신 다운로드: [Releases](../../releases/latest)
+
+## 안드로이드 설치 앱 (테스트 버전)
+PC·케이블 없이 폰에서 앱으로 설치/제거하는 방법입니다. 안 되면 아래 ADB 방식으로 설치하세요.
+- 다운로드: https://dholegend.net/dl/apk  (릴리즈의 GVL_KoPatch_Installer.apk)
+- 앱은 릴리즈의 GVL_KoPatch_AndroidData.zip(약 80MB)을 내려받아 update 폴더에 넣고 검증표를 맞춥니다.
+- 안드로이드 10 이하·BlueStacks: 저장소 권한만 / 11~12: 앱에서 update 폴더 선택 / 13 이상: Shizuku(무선 디버깅) 필요
+- 앱으로 설치한 패치는 앱으로 제거하세요(PC 설치기와 백업 위치가 다릅니다).
